@@ -39,7 +39,7 @@ conky -c $HOME/.config/bspwm/system-overview &
 
 #run variety &
 run nm-applet &
-run pamac-tray &
+run login-sound &
 numlockx on &
 picom --config $HOME/.config/bspwm/picom.conf &
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
