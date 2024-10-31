@@ -8,7 +8,7 @@ super + m
 
 #Browser
 super + w
-    librewolf
+    firefox
 
 #Conky-toggle
 super + c
